@@ -1,5 +1,0 @@
-# Hello World in Prolog
-
-http://www.cs.toronto.edu/~sheila/384/w11/simple-prolog-examples.html
-
-
