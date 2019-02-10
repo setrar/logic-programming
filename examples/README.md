@@ -3,7 +3,7 @@
 This is just a repository where I can learn the basics of Prolog
 
 
-* Install Prolog
+* Install Prolog (http://www.swi-prolog.org/Download.html)
 
 
 * Install Eclipse with PDT plugins
