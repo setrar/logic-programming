@@ -1,0 +1,2 @@
+consult(WordPuzzle).
+consult(WPexample).
