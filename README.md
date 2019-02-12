@@ -7,3 +7,8 @@ Mathematical Logic for Computer Science
 https://www.matchilling.com/introduction-to-logic-programming-with-prolog/
 
 
+|   Books  |                                                                 |
+|----------|-----------------------------------------------------------------|
+| RIP      | https://riptutorial.com/Download/prolog-language.pdf            |
+
+
